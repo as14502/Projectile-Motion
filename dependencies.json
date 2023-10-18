@@ -1,0 +1,87 @@
+{
+  "comment": "# projectile-motion 1.1.0-dev.39 Tue Oct 17 2023 22:05:14 GMT+0800 (Malaysia Time)",
+  "assert": {
+    "sha": "94831413cd4dd4dc27c2a1aebbcafd3987934a99",
+    "branch": "main"
+  },
+  "axon": {
+    "sha": "914de8d8595ffcc9d28e5348ef36130824fe4596",
+    "branch": "main"
+  },
+  "brand": {
+    "sha": "a9029d0876ec1fa5af04da15d2c6d757e53b026e",
+    "branch": "main"
+  },
+  "chipper": {
+    "sha": "293efbfb0899bce6ed4b358bc68259ff7115b6a3",
+    "branch": "main"
+  },
+  "dot": {
+    "sha": "282951e4bf035202d3866f8f1184c8df0a7a66cc",
+    "branch": "main"
+  },
+  "joist": {
+    "sha": "00ab6d904e539e1c25634d9cf956d9321c26f4a9",
+    "branch": "main"
+  },
+  "kite": {
+    "sha": "36e768ba6b98cfb42b4325cb7fae7514906ae3d6",
+    "branch": "main"
+  },
+  "perennial-alias": {
+    "sha": "4b0b3b0cc35d340385f6211fe2def71995a99887",
+    "branch": "main"
+  },
+  "phet-core": {
+    "sha": "4b1f1fdabeafaefddd5a418b455c53aa76dacca0",
+    "branch": "main"
+  },
+  "phetcommon": {
+    "sha": "6f9601425e211c3fc4a7fe6e411b9ef85af446d4",
+    "branch": "main"
+  },
+  "phetmarks": {
+    "sha": "3f5eaa9face0ff083d15fa56997f1ce05589e561",
+    "branch": "main"
+  },
+  "projectile-motion": {
+    "sha": "fe28ce23bed320f190e648c0f2bf02a52351a64a",
+    "branch": "main"
+  },
+  "query-string-machine": {
+    "sha": "1ce3dbe4494e0cbfffc6e9e8de2eb35c155ac40a",
+    "branch": "main"
+  },
+  "scenery": {
+    "sha": "aa42c798780a982b2bccb5973b1aeb70ec5dfd64",
+    "branch": "main"
+  },
+  "scenery-phet": {
+    "sha": "1d4ce8d107782f4ece45b3fb8ca8e5a44594f3cd",
+    "branch": "main"
+  },
+  "sherpa": {
+    "sha": "412668c487ad1a298f1d4a0377c17a8915ae747e",
+    "branch": "main"
+  },
+  "sun": {
+    "sha": "6fc859ce421d387beea93ea0c2f40a31fa2fc0ac",
+    "branch": "main"
+  },
+  "tambo": {
+    "sha": "35892bcb9e3941e14551336cf3551b4e5806298d",
+    "branch": "main"
+  },
+  "tandem": {
+    "sha": "b4f106858351c45694901676e16febe2428e05bf",
+    "branch": "main"
+  },
+  "twixt": {
+    "sha": "fee42511e25587296d9092de0f9943e669d241b3",
+    "branch": "main"
+  },
+  "utterance-queue": {
+    "sha": "fec40dc7f7fff3c950a73cffc80994085c7ef1d6",
+    "branch": "main"
+  }
+}
